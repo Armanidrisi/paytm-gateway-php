@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/paytm-gateway-php)](https://github.com/Armanidrisi/paytm-gateway-php/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Armanidrisi/paytm-gateway-php)](https://github.com/Armanidrisi/paytm-gateway-php/pulls)
 [![GitHub forks](https://img.shields.io/github/forks/Armanidrisi/paytm-gateway-php?style=social)](https://github.com/Armanidrisi/paytm-gateway-php/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/paytm-gateway-php?style=social)](https://github.com/Armanidrisi/paytm-gateway-php
+[![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/paytm-gateway-php?style=social)](https://github.com/Armanidrisi/paytm-gateway-php)
 
 Welcome to the Paytm Payment Gateway GitHub repository! This project provides a simple, secure, and efficient way to integrate your website or mobile app with the Paytm Payment Gateway. This allows you to easily accept payments from your customers through various payment modes such as credit/debit cards, net banking, UPI, and Paytm Wallet.
 
