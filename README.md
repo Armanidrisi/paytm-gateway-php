@@ -1,12 +1,11 @@
-# 🏦 Paytm Payment Gateway
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-Paytm%20Developers-blue.svg)](https://github.com/Paytm-Payments)
-[![GitHub contributors](https://img.shields.io/github/contributors/Paytm-Payments/paytm-payment-gateway)](https://github.com/Paytm-Payments/paytm-payment-gateway/graphs/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/Paytm-Payments/paytm-payment-gateway)](https://github.com/Paytm-Payments/paytm-payment-gateway/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Paytm-Payments/paytm-payment-gateway)](https://github.com/Paytm-Payments/paytm-payment-gateway/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/Paytm-Payments/paytm-payment-gateway?style=social)](https://github.com/Paytm-Payments/paytm-payment-gateway/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/Paytm-Payments/paytm-payment-gateway?style=social)](https://github.com/Paytm-Payments)
+[![GitHub contributors](https://img.shields.io/github/contributors/Paytm-Payments/paytm-payment-gateway)](https://github.com/Armanidrisi/paytm-gateway-php/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/paytm-gateway-php)](https://github.com/Armanidrisi/paytm-gateway-php/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Armanidrisi/paytm-gateway-php)](https://github.com/Armanidrisi/paytm-gateway-php/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/Armanidrisi/paytm-gateway-php?style=social)](https://github.com/Armanidrisi/paytm-gateway-php/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/paytm-gateway-php?style=social)](https://github.com/Armanidrisi/paytm-gateway-php
 
 Welcome to the Paytm Payment Gateway GitHub repository! This project provides a simple, secure, and efficient way to integrate your website or mobile app with the Paytm Payment Gateway. This allows you to easily accept payments from your customers through various payment modes such as credit/debit cards, net banking, UPI, and Paytm Wallet.
 
